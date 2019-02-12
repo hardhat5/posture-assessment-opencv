@@ -15,7 +15,7 @@ from matplotlib import pyplot as plt
 # In[203]:
 
 
-img = cv2.imread("C:/Users/Sahil/Desktop/Posture/back.jpg")
+img = cv2.imread("back.jpg")
 x1 = int(225/2-15)
 x2 = int(225/2+15)
 img = img[:, x1:x2]
