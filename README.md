@@ -1,1 +1,1 @@
-# Posture-Assessment-using-Computer-Vision
+# Posture Assessment using Computer Vision
